@@ -1,0 +1,52 @@
+RETAIL SALES ANALYSIS – SQL PROJECT
+
+Project Description
+
+This project analyzes retail sales data using MySQL to understand business performance, customer behavior, product profitability, and sales trends.
+
+Project Objectives
+
+- Analyze total revenue and profit.
+- Identify top-performing products.
+- Analyze customer purchasing behavior.
+- Compare sales performance across different periods.
+- Generate useful business insights.
+
+Dataset
+
+- Total Records: 150
+- Unique Customers: 59
+- Total Orders: 150
+- Database: retail_sales_db
+- Main Table: sales
+
+Tools
+
+- MySQL
+- MySQL Workbench
+- SQL
+
+SQL Techniques
+
+- Aggregate Functions
+- GROUP BY and HAVING
+- JOIN
+- Subqueries
+- CTE
+- Window Functions
+- CASE WHEN
+- Date Functions
+
+Key Results
+
+- Total Revenue: LKR 6,578,430
+- Total Profit: LKR 1,936,730
+- Highest Profit Product: Monitor
+
+Project Outcome
+
+This project demonstrates practical SQL data analysis skills and the ability to convert raw sales data into meaningful business insights.
+
+Author
+
+Data Analytics Portfolio Project
